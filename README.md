@@ -28,10 +28,10 @@ Follow these steps to set up the project locally:
 
 ```sh
 # Step 1: Clone the repository using the project’s Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Flixapay2024/flixapay.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd flixapay
 
 # Step 3: Install the required dependencies.
 npm install
